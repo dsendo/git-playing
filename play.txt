@@ -1,2 +1,3 @@
 This is for playing around. To show different git uses.
 Bla bla bla bla
+Showing how git diff can look across versions in history
